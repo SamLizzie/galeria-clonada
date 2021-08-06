@@ -1,0 +1,47 @@
+[33mcommit eeb04d0bd74dfac06586159d4dc0e385e41a082a[m
+Author: Aula CEPI-BASE <Aula@CEPIBASE.INF>
+Date:   Fri Aug 6 11:59:17 2021 +0200
+
+    funcionamiento correcto de .gitignore
+
+[33mcommit 470d2247a5a664462200ab0e8d46d8acdc9586b6[m
+Author: Aula CEPI-BASE <Aula@CEPIBASE.INF>
+Date:   Fri Aug 6 11:55:41 2021 +0200
+
+    creación de .gitignore
+
+[33mcommit 35368c42762127e5ca89311fc35b730d567c1ac4[m
+Author: Aula CEPI-BASE <Aula@CEPIBASE.INF>
+Date:   Fri Aug 6 11:31:53 2021 +0200
+
+    eliminación segundo archivo de estilos
+
+[33mcommit bc633c1abece9c5b1368cea6447778296cc05fa9[m
+Author: Aula CEPI-BASE <Aula@CEPIBASE.INF>
+Date:   Fri Aug 6 11:31:26 2021 +0200
+
+    cambio de nombre archivo principal
+
+[33mcommit 9103061e91470a56b0054e758bc5ccf22bdc6b78[m
+Author: Aula CEPI-BASE <Aula@CEPIBASE.INF>
+Date:   Fri Aug 6 11:14:09 2021 +0200
+
+    funcionamiento correcto hasta aquí
+
+[33mcommit cc3489aba38b4ef918d52280f1c803c9545a2363[m
+Author: Aula CEPI-BASE <Aula@CEPIBASE.INF>
+Date:   Fri Aug 6 11:12:10 2021 +0200
+
+    cambio en el título del email
+
+[33mcommit 4e3729bb74966107e33f19b508c53948fdacd447[m
+Author: Aula CEPI-BASE <Aula@cepibase.inf>
+Date:   Fri Aug 6 10:59:15 2021 +0200
+
+    cambio en el título de la página
+
+[33mcommit 9ae01ca722f35b725c9daffddb7b7d73c4ea55a9[m
+Author: Aula CEPI-BASE <Aula@cepibase.inf>
+Date:   Fri Aug 6 10:46:41 2021 +0200
+
+    mi primer commit
